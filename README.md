@@ -19,4 +19,4 @@ multi-line code
 1. list 1
 2. list 2
 
-(wbs_coding_school)[www.wbscodingschool.com]
+[wbs_coding_school](www.wbscodingschool.com)
